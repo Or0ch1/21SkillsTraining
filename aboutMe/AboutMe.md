@@ -5,10 +5,10 @@
 
 </div>
 
-### **SOCIAL**
-- [Github](https://github.com/BryanTmungai/21SkillsTraining.git){:target="_blank"}
-- [brayomuggs@gmail.com](mailto:brayomuggs@gmail.com) 
-- [Twitter](https://twitter.com/BLVCk_)
+### **OFFICIAL SOCIAL**
+- [Github](https://github.com/BryanTmungai/21SkillsTraining.git)
+- [Email](mailto:brayomuggs@gmail.com) 
+  
 ----
 
 ### **EDUCATION**
